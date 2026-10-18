@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "configs": [
+    {
+      "id": "duotone-default",
+      "name": "TheresaXVI Duotone Default",
+      "description": "Default ClickGUI appearance only; no friends, player identity, credentials or combat configuration.",
+      "compatibleVersion": "12",
+      "path": "configs/duotone-default.txt",
+      "sha256": "8f5d140fb599041a3969ee4e6cf0831ac02983583cd9852971c9f925ba45283c",
+      "size": 1317
+    }
+  ]
+}

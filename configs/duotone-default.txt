@@ -1,0 +1,62 @@
+{
+  "TheresaDuotone Appearance": {
+    "Blue Accent": {
+      "Alpha": 255,
+      "Blue": 237,
+      "Green": 190,
+      "Red": 124,
+      "Synced": false
+    },
+    "Body Text": {
+      "Alpha": 255,
+      "Blue": 248,
+      "Green": 239,
+      "Red": 242,
+      "Synced": false
+    },
+    "Corner Radius": 4.0,
+    "Edge Colour": {
+      "Alpha": 55,
+      "Blue": 242,
+      "Green": 222,
+      "Red": 211,
+      "Synced": false
+    },
+    "Edge Highlight": 0.44999998807907104,
+    "Glass Blur": 10.0,
+    "Liquid Glass": true,
+    "Panel Colour": {
+      "Alpha": 224,
+      "Blue": 35,
+      "Green": 27,
+      "Red": 25,
+      "Synced": false
+    },
+    "Pink Accent": {
+      "Alpha": 255,
+      "Blue": 208,
+      "Green": 143,
+      "Red": 234,
+      "Synced": false
+    },
+    "Quality": 1,
+    "Secondary Text": {
+      "Alpha": 255,
+      "Blue": 216,
+      "Green": 205,
+      "Red": 205,
+      "Synced": false
+    },
+    "ShaderGui": true,
+    "ShaderGui Background": 0.05999999865889549,
+    "ShaderGui Snow": false,
+    "ShaderGui Speed": 0.6000000238418579,
+    "ShaderGui Strength": 0.25,
+    "ShaderGui Style": 0,
+    "TheresaDuotone Font Size": 14,
+    "TheresaDuotone GUI Size": 1.0,
+    "TheresaDuotone Reduce Motion": false,
+    "TheresaDuotone Settings Font Size": 13,
+    "Version": 2
+  }
+}
