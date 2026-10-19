@@ -1,1 +1,0 @@
-{"ClickGUI":{"GUI Size":1,"enabled":false},"HUD":{"Scale":1,"enabled":false},"InventoryHUD":{"Opacity":216,"enabled":false},"NameTags":{"Frosted":true,"enabled":false},"Notification":{"enabled":false},"Statistics":{"Scale":1}}
