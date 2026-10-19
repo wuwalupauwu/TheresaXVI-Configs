@@ -1,0 +1,1 @@
+{"ClickGUI":{"GUI Size":1,"enabled":false}}

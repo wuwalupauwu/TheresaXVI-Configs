@@ -9,6 +9,15 @@
       "path": "configs/duotone-default.txt",
       "sha256": "8f5d140fb599041a3969ee4e6cf0831ac02983583cd9852971c9f925ba45283c",
       "size": 1317
+    },
+    {
+      "id": "cfg-95d00339c7b34359d61abfbf",
+      "name": "Default ClickGUI upload verification",
+      "description": "Clean isolated default-values fixture. No personal configuration, lists, paths, media sessions or client source.",
+      "compatibleVersion": "12",
+      "path": "configs/cfg-95d00339c7b34359d61abfbf.txt",
+      "sha256": "95d00339c7b34359d61abfbf718fe2cd979e6b5a7b7958a5c39416299df8aa26",
+      "size": 43
     }
   ]
 }
