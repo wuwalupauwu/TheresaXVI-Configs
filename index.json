@@ -18,6 +18,15 @@
       "path": "configs/cfg-95d00339c7b34359d61abfbf.txt",
       "sha256": "95d00339c7b34359d61abfbf718fe2cd979e6b5a7b7958a5c39416299df8aa26",
       "size": 43
+    },
+    {
+      "id": "cfg-7a1d04e3110fa440390d8dbe",
+      "name": "TheresaXVI repair validation",
+      "description": "Isolated default-value fixture; removed after validation.",
+      "compatibleVersion": "12",
+      "path": "configs/cfg-7a1d04e3110fa440390d8dbe.txt",
+      "sha256": "7a1d04e3110fa440390d8dbe5cd497ba740f9a244569f1ba397cec0cf6a026b2",
+      "size": 201
     }
   ]
 }
