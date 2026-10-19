@@ -18,6 +18,15 @@
       "path": "configs/cfg-95d00339c7b34359d61abfbf.txt",
       "sha256": "95d00339c7b34359d61abfbf718fe2cd979e6b5a7b7958a5c39416299df8aa26",
       "size": 43
+    },
+    {
+      "id": "cfg-87db94b12f51b0ed7f3790db",
+      "name": "TheresaXVI input repair validation",
+      "description": "Isolated default-value policy fixture; removed after validation.",
+      "compatibleVersion": "12",
+      "path": "configs/cfg-87db94b12f51b0ed7f3790db.txt",
+      "sha256": "87db94b12f51b0ed7f3790db6885b399e5ab9d9d25b64f16d03d7109c7dc6826",
+      "size": 226
     }
   ]
 }
