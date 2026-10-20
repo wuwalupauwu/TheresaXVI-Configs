@@ -18,6 +18,15 @@
       "path": "configs/cfg-95d00339c7b34359d61abfbf.txt",
       "sha256": "95d00339c7b34359d61abfbf718fe2cd979e6b5a7b7958a5c39416299df8aa26",
       "size": 43
+    },
+    {
+      "id": "cfg-7b2a4ecd0ef3472d58ea2f29",
+      "name": "Shared config",
+      "description": "",
+      "compatibleVersion": "12",
+      "path": "configs/cfg-7b2a4ecd0ef3472d58ea2f29.txt",
+      "sha256": "7b2a4ecd0ef3472d58ea2f29bab3ad4d2f501edf3e33fa5b9b97ca6519aa120c",
+      "size": 45799
     }
   ]
 }
